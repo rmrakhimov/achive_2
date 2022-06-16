@@ -1,5 +1,6 @@
 # achive_2
 COMPONENT
-![Component drawio](https://user-images.githubusercontent.com/93881114/174080737-f865ee70-bb57-4d11-9eb6-dcac5b08e421.png)
+![Component drawio](https://user-images.githubusercontent.com/93881114/174115714-b1dfb53b-fb33-4743-80b6-570cc131648a.png)
+
 SEQUENCE
-![Sequence drawio](https://user-images.githubusercontent.com/93881114/174080742-ef0886a4-0f8f-4574-a671-b9c3f803f8cd.png)
+![Sequence drawio](https://user-images.githubusercontent.com/93881114/174115766-5d1f6eaf-9338-402b-9033-a0c2b649d04b.png)
